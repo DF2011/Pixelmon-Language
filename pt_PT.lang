@@ -2781,8 +2781,7 @@ pixelmon.keldeo.description=When it is resolute, its body fills with power and i
 pixelmon.meloetta.name=Meloetta
 pixelmon.meloetta.description=The melodies sung by Meloetta have the power to make Pokemon that hear them happy or sad.
 pixelmon.genesect.name=Genesect
-pixelmon.genesect.description=This Pokemon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.
-
+pixelmon.genesect.description=Este Pokémon existiu á 300 milhões de anos. A Team Plasma alterou-o e agarrou-lhe um canhão nas costas.
 
 
 
@@ -2797,12 +2796,12 @@ gui.guiEvolve.done2=evoluiu para
 gui.guiEvolve.cancel=Evolução cancelada!
 
 
-gui.guiItemDrops.beatBossPixelmon1=You beat a boss
-gui.guiItemDrops.beatTrainer1=You beat a trainer!
+gui.guiItemDrops.beatBossPixelmon1=Derrotas-te o Boss
+gui.guiItemDrops.beatTrainer1=Derrotas-te o Treinador!
 gui.guiItemDrops.ok=OK
-gui.guiItemDrops.mouse=Mouse over item
-gui.guiItemDrops.see=to see more
-gui.guiItemDrops.details=details
+gui.guiItemDrops.mouse=Rato sobre o Objeto
+gui.guiItemDrops.see=para ver mais
+gui.guiItemDrops.details=detalhes
 
 
 
